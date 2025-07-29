@@ -1,5 +1,7 @@
 # FFmpeg GUI - Self-Contained Video Processing Tool
 
+![FFmpeg GUI Interface](https://i.ibb.co/27Sv3kFw/Screenshot.png)
+
 A modern FFmpeg graphical user interface built with Rust and egui, designed to work without requiring FFmpeg installation. The project includes both traditional single-task processing and an experimental automation workflow system.
 
 *基于Rust和egui开发的现代化FFmpeg图形界面工具，无需安装FFmpeg即可使用。项目包含传统的单任务处理和实验性的自动化工作流系统。*
