@@ -1,0 +1,5 @@
+*.rs linguist-language=Rust
+*.ps1 linguist-language=PowerShell
+ffmpeg-static/** linguist-detectable=false
+*.md linguist-documentation
+*.toml linguist-detectable=true
